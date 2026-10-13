@@ -1,2 +1,2 @@
 # CCNA-Labs
-Enjoy.
+Road to my first networking job. Documenting CCNA labs along the way.
