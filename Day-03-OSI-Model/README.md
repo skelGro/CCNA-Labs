@@ -1,12 +1,10 @@
-# Day 3: OSI Model & Packet Tracer Lab
+# Jeremy's IT Lab – Practice & Hands-On Notes
 
-## Overview
-Practical lab from Jeremy's IT Lab covering OSI model layers, PDU encapsulation, and packet flow inside Cisco Packet Tracer.
+All labs in this repository are based on the **Jeremy's IT Lab** CCNA course. 
 
-## Key Learnings
-- **Layer 7-4:** Data encapsulation into transport segments.
-- **Layer 3 (Network):** IP packet headers, source and destination IP addressing.
-- **Layer 2 (Data Link):** Ethernet frames, MAC addresses, and ARP resolution.
-- **Layer 1 (Physical):** Transmission of bits through physical media.
+Instead of just following the lab instructions step-by-step, I like to experiment on my own—testing configurations, changing settings, and breaking things to understand how they actually work.
 
-## Files
+### What I Learned & Practiced:
+- **Packet Flow Simulation:** Learned how to use Packet Tracer's Simulation Mode to track PDUs and visualize data moving across devices step by step.
+- **Cisco CLI Navigation:** Got hands-on experience with the command-line interface (user EXEC, privileged EXEC, configuration modes) and running diagnostic commands.
+- **Packet Tracer Workflow:** Improved my efficiency in building topologies, connecting interfaces, and verifying network connectivity.
